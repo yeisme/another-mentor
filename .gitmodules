@@ -1,0 +1,9 @@
+[submodule "another-mentor-deploy"]
+	path = another-mentor-deploy
+	url = https://github.com/yeisme/another-mentor-deploy.git
+[submodule "another-mentor-frontend"]
+	path = another-mentor-frontend
+	url = https://github.com/yeisme/another-mentor-frontend.git
+[submodule "another-mentor-backend"]
+	path = another-mentor-backend
+	url = https://github.com/yeisme/another-mentor-backend.git
