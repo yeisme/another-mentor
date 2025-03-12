@@ -107,7 +107,7 @@ graph TD
 #### API
 
 - fastapi/gin：Python 和 Golang RESTful API 开发框架
-- kratos/grpc：微服务开发框架
+- go-zero/grpc：微服务开发框架
 - pocketbase：开源实时的低代码后端，作为 NoSQL 数据库和 REST/GraphQL API，前期快速开发使用
 
 #### 存储

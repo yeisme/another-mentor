@@ -1,0 +1,3 @@
+apis:
+  another-mentor-backend/user/doc/user.json:
+    alias: api
