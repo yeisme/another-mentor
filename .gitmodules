@@ -1,0 +1,3 @@
+[submodule "module/notevault"]
+	path = module/notevault
+	url = git@github.com:yeisme/notevault.git
