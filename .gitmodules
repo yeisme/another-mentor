@@ -1,3 +1,9 @@
 [submodule "module/notevault"]
 	path = module/notevault
 	url = git@github.com:yeisme/notevault.git
+[submodule "module/insightengine"]
+	path = module/insightengine
+	url = git@github.com:yeisme/insightengine.git
+[submodule "module/pathplanner"]
+	path = module/pathplanner
+	url = git@github.com:yeisme/pathplanner.git
